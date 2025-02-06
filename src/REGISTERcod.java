@@ -3,7 +3,7 @@
 import java.sql.*;
 import java.util.Scanner;
 
-public class REGISTERcode
+public class REGISTERcod
 {
     public static void main(String[] args) throws ClassNotFoundException
     {
